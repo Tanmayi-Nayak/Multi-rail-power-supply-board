@@ -16,4 +16,13 @@ The key features of the system include
 5)Documentation of design trade-offs and safety considerations
 
 The circuit flow follows the the equence:
-AC Mains (EMI Filter + Fuse + MetalOxideVariester) Isolated SMPS (48 V DC) DC-DC Buck Rails(48 → 24 → 12 → 5 → 3.3 → 1.5)
+AC Mains (EMI Filter + Fuse + MetalOxideVariester) 
+Isolated SMPS (48 V DC) 
+DC-DC Buck Rails(48 → 24 → 12 → 5 → 3.3 → 1.5)
+
+Tools Used
+
+1.LTspice – Power electronics simulation
+2.GitHub – Version control and documentation
+3.Power Electronics Theory 
+4.KiCad for pcb design
